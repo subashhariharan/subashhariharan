@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subashhariharan
+- 💞️ Worked on Python,php,node js,mysql,postgres, Elastic search
 - 👀 I’m interested in python,Django, AI,ML
 - 🌱 I’m currently learning AI,ML, Angular 
-- 💞️ Worked on Python,php,node js,mysql,postgres, Elastic search
 - 📫 How to reach me => subashhari22@gmail.com / +91 8220097133
 
 <!---
